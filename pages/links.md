@@ -9,6 +9,6 @@ permalink: /links/
 ---
 
 ## links
-- [UESTC](http://www.uestc.edu.cn)
+- [NJUPT](https://www.njupt.edu.cn)
 
 ## Public pages
