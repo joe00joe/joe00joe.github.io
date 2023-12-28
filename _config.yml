@@ -1,6 +1,6 @@
 baseurl:
 url: https://joe00joe.github.io
-title: Chaobin
+title: 舒新丰
 subtitle: "The sandglass remembers the time we mislay"
 description: "joe00joe's personal page"
 date_format: "ordinal"
@@ -9,11 +9,11 @@ encoding: "utf-8"
 side_bar_repo_limit: 5
 
 author: joe00joe
-organization: UESTC
-organization_url: http://www.uestc.edu.cn
+organization: NJUPT
+organization_url: https://www.njupt.edu.cn/
 github_username: joe00joe
-location: Chengdu, China
-email: joe00joe@example.com
+location: NanJing, China
+email: 2758002268@qq.com
 
 # Navigation
 navs:
